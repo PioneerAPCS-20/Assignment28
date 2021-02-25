@@ -2,7 +2,7 @@
 
 For this assigment you will be given an array of DNA strands, as Strings, and you will print the highest and lowest GC-content percentages found from the strands.
 
-You must use an enhanced for loop to traverse the arrays for this assignment.
+**You must use an enhanced for loop to traverse the arrays for this assignment.**
 
 Use the starter code and check your output against the percentages shown below.
 
